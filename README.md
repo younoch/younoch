@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb.com/younoch
 
-<!---
-younoch/younoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
+Over the 1 year professional experience as Frontend Developer. Over 3 years of experience working on 50+ projects and passion for building responsive web application. I intend to join in the role of Frontend Engineer at any reputed software firm.
+-
